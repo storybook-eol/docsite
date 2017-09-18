@@ -1,0 +1,10 @@
+{
+  "name": "storybook.js.org",
+  "version": "1.0.0",
+  "description": "storybook.js.org documentation site",
+  "keywords": [
+    "storybooks"
+  ],
+  "license": "MIT",
+  "main": "n/a"
+}
